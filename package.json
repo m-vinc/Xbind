@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "helpers.js",
-  "directories": {
-    "test": "test"
-  },
   "dependencies": {
     "find-process": "^1.1.0",
     "untildify": "^3.0.2"
